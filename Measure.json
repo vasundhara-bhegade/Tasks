@@ -1,0 +1,7 @@
+{
+  "name": "Measure",
+  "expression": "SUM(Sheet1[Salary])",
+  "formatString": "0",
+  "displayFolder": "New folder",
+  "lineageTag": "c5399889-6f34-4377-83f2-e15acfbe35ca"
+}
